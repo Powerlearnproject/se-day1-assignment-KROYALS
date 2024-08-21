@@ -20,7 +20,7 @@ The requirements phase,the design phase,the implementation phase,the testing pha
 REQUIREMENT PHASE involves gathering and documenting user and system needs requirements ,DESIGN PHASE involves creating a high-level and detailed designs of the software architecture and user interface,IMPLEMENTATION PHASE involves writing codes and building the software according to the design specifications,TESTING PHASE involves conducting various test to ensure the software meets the standard both in function and quality.,DEPLOYMENT PHASE involves releasing the software to usres, MAINTENANCE PHASE involves providing ongoing support,updates and enhancements to users.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Both are software development methodologies in which waterfall is a sequential approach with distinct phases more like waterfall
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
