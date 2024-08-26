@@ -38,9 +38,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 UNIT TESTING involves testing individual component, INTEGRATION TESTING involves testing interaction between subsystems,ACCEPTANCE TESTING involves testing software against user requirements to ensure it meets user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engine is crafting questions in a way to help get the best response from AI assistant.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+example; instead of saying tell me about COMPUTER ENGINEERING say STEPS TO BECOME A GOOD COMPUTER ENGINEER.
+Improved promt engineering is important because it goes straight to the point and at the same time bringing out the important details.
